@@ -168,16 +168,10 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## Bugs
-
-No known bugs at this time.
 
 ## Authors
 
-Uche Ofia - [Github](https://github.com/Cofucan) / [Twitter](https://twitter.com/coolucheofia)
-Kate Onyebuchi - [Github]() / [Twitter]()
-
-Second part of Airbnb: Joann Vuong
+Andrew Justice Chukwuweike - [Github](https://github.com/unawarexi) / [Twitter](https://x.com/oligarMani)
 
 ## License
 
